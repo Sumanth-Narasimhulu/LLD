@@ -1,4 +1,5 @@
-package AbstractFactoryDesignPattern;
+package CreationalDesignPatterns.AbstractFactoryDesignPattern;
+
 
 public class BMW implements Vehicle {
     @Override

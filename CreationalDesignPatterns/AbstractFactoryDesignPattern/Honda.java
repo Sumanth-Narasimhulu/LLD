@@ -1,4 +1,4 @@
-package AbstractFactoryDesignPattern;
+package CreationalDesignPatterns.AbstractFactoryDesignPattern;
 
 public class Honda implements Vehicle {
     @Override
