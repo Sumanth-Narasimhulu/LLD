@@ -18,5 +18,13 @@ public class Main {
                           .setAirBags(false)
                           .build();
         System.out.println(car2);
+
+        Car car3 = builder.setColor("Black")
+                          .setWheels(6)
+                          .setPowerSteering(true)
+                          .setSeats(7)
+                          .setAirBags(true)
+                          .build();
+        System.out.println(car3);
     }
 }
