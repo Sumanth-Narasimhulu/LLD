@@ -3,12 +3,12 @@ package BehaviouralDesginPatterns.IteratorDesignPattern;
 public class Main {
     public static void main(String[] args) {
         PlayList myPlayList = new PlayList();
-        Song song1 = new Song();
+        Song song1 = new Song(); 
         song1.songName = "Song A";
         song1.artistName = "Artist 1";
         song1.lyrics = "La la la...";
         song1.isFavorite = true;
-
+        
         Song song2 = new Song();
         song2.songName = "Song B";
         song2.artistName = "Artist 2";
@@ -40,5 +40,7 @@ public class Main {
         while(favIterator.hasNext()) {
             System.out.println(favIterator.next());
         }
+        
     }
+    
 }
