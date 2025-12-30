@@ -8,7 +8,7 @@ public class Main {
 
         IdCard masterIdCard = new IdCard("Kyndryl","Red","1001","Master Employee");
 
-        IdCard emp1 = (IdCard)masterIdCard.clone();
+        IdCard emp1 = (IdCard) masterIdCard.clone();
         emp1.setemployeeId("1002");
         emp1.setemployeeName("Alice");
         IdCard emp2 = (IdCard)masterIdCard.clone();
