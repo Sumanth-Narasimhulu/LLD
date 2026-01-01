@@ -40,16 +40,16 @@ These patterns deal with object composition and typically identify simple ways t
 
 ## 📊 Progress Tracking
 
-- [ ] Strategy Pattern
-- [ ] Observer Pattern
-- [ ] Command Pattern
-- [ ] Template Method Pattern
-- [ ] Iterator Pattern
-- [ ] State Pattern
-- [ ] Singleton Pattern
-- [ ] Factory Method Pattern
-- [ ] Builder Pattern
+- [X] Strategy Pattern
+- [X] Observer Pattern
+- [X] Command Pattern
+- [X] Template Method Pattern
+- [X] Iterator Pattern
+- [X] State Pattern
+- [X] Singleton Pattern
+- [X] Factory Method Pattern
+- [X] Builder Pattern
 - [x] Prototype Pattern
-- [ ] Adapter Pattern
+- [X] Adapter Pattern
 - [ ] Decorator Pattern
 - [ ] Facade Pattern
