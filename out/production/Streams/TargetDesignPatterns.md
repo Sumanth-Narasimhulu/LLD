@@ -50,6 +50,6 @@ These patterns deal with object composition and typically identify simple ways t
 - [X] Factory Method Pattern
 - [X] Builder Pattern
 - [x] Prototype Pattern
-- [ ] Adapter Pattern
+- [X] Adapter Pattern
 - [ ] Decorator Pattern
-- [ ] Facade Pattern
+- [X] Facade Pattern

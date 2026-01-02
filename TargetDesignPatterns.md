@@ -52,4 +52,4 @@ These patterns deal with object composition and typically identify simple ways t
 - [x] Prototype Pattern
 - [X] Adapter Pattern
 - [ ] Decorator Pattern
-- [ ] Facade Pattern
+- [X] Facade Pattern
