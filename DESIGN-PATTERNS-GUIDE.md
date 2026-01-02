@@ -1,6 +1,3 @@
-# Low-Level-Deisgn
-Practicing the Low Level Design 
-
 # Design Patterns Guide
 
 A comprehensive overview of all design patterns implemented in this repository with simple definitions and practical examples.
